@@ -133,8 +133,8 @@ The LSTM uses rolling **30-day sequences** as inputs.
 | Model             |   Test RMSE |    Test MAE |     Test R² |
 | ----------------- | ----------: | ----------: | ----------: |
 | Linear Regression |     0.00835 |     0.00604 |    -0.16084 |
-| Random Forest     |     0.00783 |     0.00519 |     0.23083 |
-| XGBoost           | **0.00678** |     0.00484 | **0.23542** |
+| Random Forest     |     0.00680 |     0.00498 |     0.23002 |
+| XGBoost           | **0.00677** |     0.00483 | **0.23586** |
 | LSTM              |     0.00688 | **0.00479** |      0.0817 |
 
 XGBoost produced the strongest overall test performance, achieving an RMSE of **0.00678**, MAE of **0.00484**, and R² of **0.23542**.
