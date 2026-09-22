@@ -137,7 +137,7 @@ The LSTM uses rolling **30-day sequences** as inputs.
 | XGBoost           | **0.00677** |     0.00483 | **0.23586** |
 | LSTM              |     0.00688 | **0.00479** |      0.0817 |
 
-XGBoost produced the strongest overall test performance, achieving an RMSE of **0.00678**, MAE of **0.00484**, and R² of **0.23542**.
+XGBoost produced the strongest overall test performance, achieving an RMSE of **0.00677**, MAE of **0.00483**, and R² of **0.23586**.
 
 The results suggest that nonlinear tree-based models can extract meaningful predictive information from daily market and macroeconomic features without requiring high-frequency intraday data.
 
