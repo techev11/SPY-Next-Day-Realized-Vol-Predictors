@@ -2,7 +2,7 @@
 
 A machine learning approach to forecasting next-day realized volatility of the **SPDR S&P 500 ETF (SPY)** using daily market data, macroeconomic indicators, technical indicators, and volatility features.
 
-The goal of this project is to determine whether next-day volatility can be forecast effectively using **freely accessible daily data**, rather than relying on expensive high-frequency intraday datasets.
+The goal of this project is to determine whether next-day volatility can be forecast effectively using **freely accessible daily data**, rather than relying on expensive high-frequency intraday datasets. The project also investigates whether nonlinear relationships among market, volatility, technical, and macroeconomic features provide meaningful predictive power for future volatility by comparing linear, tree-based, and neural network models.
 
 ## Overview
 
