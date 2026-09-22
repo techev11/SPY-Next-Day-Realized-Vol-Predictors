@@ -153,7 +153,7 @@ The five most important XGBoost features were:
 4. `ATR`
 5. `Close_VIX`
 
-This suggests that options-implied volatility contains substantial information about subsequent realized market volatility.
+This confirms that options-implied volatility contains substantial information about subsequent realized market volatility.
 
 ## Technologies
 
@@ -167,32 +167,6 @@ This suggests that options-implied volatility contains substantial information a
 * Matplotlib
 * Jupyter Notebook
 
-## Running the Project
-
-Clone the repository:
-
-```bash
-git clone git@github.com:techev11/SandP500-Next-Day-Realized-Vol-Predictors.git
-cd SandP500-Next-Day-Realized-Vol-Predictors
-```
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter:
-
-```bash
-jupyter notebook
-```
-
-Then open:
-
-```text
-VolForcast.ipynb
-```
 
 ## Future Work
 
