@@ -181,7 +181,6 @@ Potential extensions include:
 * Probabilistic volatility forecasts
 * Testing across additional indices and asset classes
 
-## Authors
 
-**Tomas Echeverri, Kai Kang, Diego Segundo**
-New York University — Tandon School of Engineering
+
+
